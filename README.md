@@ -78,7 +78,7 @@ and Smoking_Status.
 4. **Monitor drift** — re-score quarterly; track band migration as an early
    warning of deteriorating cohorts.
 
-## 7. How to Run
+## 6. How to Run
 
 ```bash
 pip install -r requirements.txt        # pandas numpy scikit-learn xgboost shap matplotlib
