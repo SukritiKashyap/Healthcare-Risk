@@ -54,7 +54,7 @@ and Smoking_Status.
 
 ## 4. Key Findings
 
-- All three models separate high-cost members strongly (**ROC-AUC ≈ 0.90–0.92**).
+- All three models separate high-cost members strongly (**ROC-AUC ≈ 0.92**).
   The pipeline is tuned for **high recall on high-cost members (~0.83)** —
   in care management, missing a future high-cost member costs far more than a
   false positive.
