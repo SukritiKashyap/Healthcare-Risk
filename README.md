@@ -6,8 +6,7 @@ Critical) that care-management, underwriting and finance teams can act on.
 
 Built to mirror how a risk/analytics team inside a health insurer actually works:
 cost-persistence modelling, a defensible scoring framework, SHAP-based
-transparency, an analyst SQL layer, and a Power BI dashboard spec for the business.
-
+transparency, an analyst SQL layer.
 ---
 
 ## 1. Business Problem
